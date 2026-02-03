@@ -2,6 +2,10 @@
 
 The interesting part is the discussion of using AI not as a replacement tool but as a supplement—or even a necessity—for software engineers to get their work done. While the article mentions that AI could handle everything from writing code to testing it, there is still a level of human intuition and judgment that may not be fully replaced by AI itself.
 
+# Edits by Aadil
+
+Great Article !!
+
 ## Proof Reading
 
 Article checked for typos
