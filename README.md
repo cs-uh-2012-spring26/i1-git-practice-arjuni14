@@ -6,6 +6,6 @@ A simple project to practice a few git/github workflows. Update this file as ins
 
 ### Pull Request
 
-Link to merged Pull Request
-Status: Merged
-Date: Feb 3th, 2026
+* **[Merged Pull Request](https://github.com/cs-uh-2012-spring26/i1-git-practice-Aarz1401/pull/2)**
+    * **Status:** Merged
+    * **Date:** Feb 3, 2026
